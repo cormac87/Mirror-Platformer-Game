@@ -8,3 +8,6 @@
 - Built custom Mesh Slicer to slice 3D meshes
 
 - Built custom solution for converting baked lightmaps into texture objects which can then be sliced
+
+-Video demo:
+https://www.reddit.com/r/Unity3D/comments/1gfm5ww/walk_through_mirrors_game_mechanic/
